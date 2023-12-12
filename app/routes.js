@@ -1,9 +1,12 @@
-//
-// For guidance on how to create routes see:
-// https://prototype-kit.service.gov.uk/docs/create-routes
-//
+const govukPrototypeKit = require("govuk-prototype-kit");
+const router = govukPrototypeKit.requests.setupRouter();
 
-const govukPrototypeKit = require('govuk-prototype-kit')
-const router = govukPrototypeKit.requests.setupRouter()
+router.get("/:birdId", (req, res) => {
+  let bird = req.session.data.birds.find(
+    (bird) => bird.id === req.params.birdId
+  );
 
-// Add your routes here
+  res.render("/show", {
+    bird,
+  });
+});

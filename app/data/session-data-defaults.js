@@ -1,5 +1,5 @@
+const birds = require("./birds.json");
+
 module.exports = {
-
-  // Insert values here
-
-}
+  birds,
+};

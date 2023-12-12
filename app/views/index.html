@@ -1,20 +1,57 @@
 {% extends "layouts/main.html" %}
 
-{% set pageName="Home" %}
+{% set pageName = "Bird tracker" %}
 
 {% block content %}
 
-<div class="govuk-grid-row">
-  <div class="govuk-grid-column-two-thirds">
+  {{ data | log }}
 
-    {% include "govuk-prototype-kit/includes/homepage-top.njk" %}
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
 
-    <h1 class="govuk-heading-xl">
-      {{ serviceName }}
-    </h1>
+      <h1 class="govuk-heading-xl">{{ pageName }}</h1>
 
-    {% include "govuk-prototype-kit/includes/homepage-bottom.njk" %}
+      {% for bird in data.birds %}
+
+        {{ govukSummaryList({
+          card: {
+            title: {
+              html: bird.name,
+              classes: "govuk-!-font-size-27"
+            },
+            actions: {
+              items: [
+                {
+                  href: "/" + bird.id,
+                  text: "Track",
+                  visuallyHiddenText: bird.name + " the " + bird.species
+                }
+              ]
+          }
+          },
+          rows: [
+            {
+              key: {
+                text: "Species"
+              },
+              value: {
+                html: bird.species
+              }
+            },            
+            {
+              key: {
+                text: "Location"
+              },
+              value: {
+                html: bird.location
+              }
+            }
+          ]
+        }) }}
+
+      {% endfor %}
+
+    </div>
   </div>
-</div>
 
 {% endblock %}
