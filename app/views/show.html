@@ -18,7 +18,28 @@
 
       <h1 class="govuk-heading-xl">{{ pageName }}</h1>
 
-      <p class="govuk-body govuk-!-margin-bottom-6">{{ bird.species }}</p>
+      {{ govukSummaryList({
+          rows: [
+            {
+              key: {
+                text: "Species"
+              },
+              value: {
+                html: bird.species
+              }
+            },            
+            {
+              key: {
+                text: "Location"
+              },
+              value: {
+                html: bird.location
+              }
+            }
+          ]
+        }) }}
+
+      <img src="/public/images/map.png" alt="">
 
     </div>
   </div>
