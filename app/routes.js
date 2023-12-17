@@ -1,12 +1,12 @@
 const govukPrototypeKit = require("govuk-prototype-kit");
 const router = govukPrototypeKit.requests.setupRouter();
 
-router.get("/:birdId", (req, res) => {
-  let bird = req.session.data.birds.find(
-    (bird) => bird.id === req.params.birdId
-  );
-
-  res.render("/show", {
-    bird,
-  });
+const flash = require("connect-flash");
+router.use(flash());
+router.all("*", (req, res, next) => {
+  res.locals.flash = req.flash("success");
+  next();
 });
+
+require("./routes/test")(router);
+require("./routes/birds")(router);
