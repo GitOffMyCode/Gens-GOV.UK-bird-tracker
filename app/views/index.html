@@ -15,6 +15,25 @@
 
       {% for bird in data.birds %}
 
+        {% set birdStatus %}
+        {% if bird.status == "Red" %}
+          {{ govukTag({
+            text: "Red",
+            classes: "govuk-tag--red"
+          }) }}
+        {% elif bird.status == "Yellow" %}
+          {{ govukTag({
+            text: "Yellow",
+            classes: "govuk-tag--yellow"
+          }) }}
+        {% elif bird.status == "Green" %}
+          {{ govukTag({
+            text: "Green",
+            classes: "govuk-tag--green"
+          }) }}
+        {% endif %}
+        {% endset %}
+
         {{ govukSummaryList({
           card: {
             title: {
@@ -46,6 +65,21 @@
               },
               value: {
                 html: bird.location
+              }
+            },            
+            {
+              key: {
+                text: "Status"
+              },
+              value: {
+                html: birdStatus
+              }
+            },{
+              key: {
+                text: "Years tracked"
+              },
+              value: {
+                html: bird.yearsTracked
               }
             }
           ]

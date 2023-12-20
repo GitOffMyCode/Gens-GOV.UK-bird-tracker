@@ -1,602 +1,802 @@
 [
   {
-    "id": "463",
-    "name": "Vita",
-    "species": "Dark-eyed Junco",
-    "location": "Guernsey"
+    "id": "292",
+    "name": "Everette",
+    "species": "Gray-spotted Flycatcher",
+    "location": "South Sudan",
+    "status": "Red",
+    "yearsTracked": "1"
   },
   {
-    "id": "506",
-    "name": "Laura",
-    "species": "American Crow",
-    "location": "Solomon Islands"
+    "id": "387",
+    "name": "Darian",
+    "species": "Semipalmated Sandpiper",
+    "location": "Democratic Republic of the Congo",
+    "status": "Red",
+    "yearsTracked": "0"
   },
   {
-    "id": "448",
-    "name": "Kristina",
-    "species": "Painted Redstart",
-    "location": "Niger"
+    "id": "308",
+    "name": "Collin",
+    "species": "Colima Warbler",
+    "location": "United Arab Emirates",
+    "status": "Red",
+    "yearsTracked": "10"
   },
   {
-    "id": "403",
-    "name": "Gerson",
-    "species": "Green Violet-ear",
-    "location": "Mayotte"
+    "id": "212",
+    "name": "Aubree",
+    "species": "Boreal Owl",
+    "location": "Slovenia",
+    "status": "Green",
+    "yearsTracked": "17"
   },
   {
-    "id": "426",
-    "name": "Sophia",
-    "species": "Barnacle Goose",
-    "location": "Algeria"
+    "id": "919",
+    "name": "Ansel",
+    "species": "Downy Woodpecker",
+    "location": "Sint Maarten",
+    "status": "Red",
+    "yearsTracked": "4"
   },
   {
-    "id": "626",
-    "name": "Dorcas",
-    "species": "Yellow-breasted Chat",
-    "location": "Tunisia"
+    "id": "133",
+    "name": "Dominique",
+    "species": "Red-breasted Flycatcher",
+    "location": "Saint Vincent and the Grenadines",
+    "status": "Yellow",
+    "yearsTracked": "6"
   },
   {
-    "id": "489",
-    "name": "Priscilla",
-    "species": "Red-legged Kittiwake",
-    "location": "Djibouti"
+    "id": "918",
+    "name": "Alba",
+    "species": "Canada Warbler",
+    "location": "Switzerland",
+    "status": "Green",
+    "yearsTracked": "1"
   },
   {
-    "id": "450",
-    "name": "Randall",
-    "species": "Prothonotary Warbler",
-    "location": "Brunei Darussalam"
+    "id": "290",
+    "name": "Grover",
+    "species": "Colima Warbler",
+    "location": "Costa Rica",
+    "status": "Yellow",
+    "yearsTracked": "0"
   },
   {
-    "id": "367",
-    "name": "Jakob",
-    "species": "Brown Shrike",
-    "location": "Niger"
+    "id": "740",
+    "name": "Westley",
+    "species": "Varied Thrush",
+    "location": "Mali",
+    "status": "Red",
+    "yearsTracked": "12"
   },
   {
-    "id": "767",
-    "name": "Mozell",
-    "species": "Great Black-backed Gull",
-    "location": "Liechtenstein"
+    "id": "633",
+    "name": "Rylan",
+    "species": "Chestnut-collared Longspur",
+    "location": "Holy See (Vatican City State)",
+    "status": "Red",
+    "yearsTracked": "17"
   },
   {
-    "id": "716",
-    "name": "Zelma",
-    "species": "Razorbill",
-    "location": "Kyrgyz Republic"
+    "id": "410",
+    "name": "Rebecca",
+    "species": "Brown-chested Martin",
+    "location": "Eritrea",
+    "status": "Green",
+    "yearsTracked": "12"
   },
   {
-    "id": "148",
-    "name": "Davin",
-    "species": "White-tailed Ptarmigan",
-    "location": "Norfolk Island"
+    "id": "596",
+    "name": "Harley",
+    "species": "Yellow-bellied Sapsucker",
+    "location": "Senegal",
+    "status": "Green",
+    "yearsTracked": "16"
   },
   {
-    "id": "280",
-    "name": "Eusebio",
-    "species": "Pacific-slope Flycatcher",
-    "location": "San Marino"
+    "id": "752",
+    "name": "Alexis",
+    "species": "Ruddy Turnstone",
+    "location": "Sierra Leone",
+    "status": "Red",
+    "yearsTracked": "2"
   },
   {
-    "id": "688",
-    "name": "Reid",
-    "species": "Glossy Ibis",
-    "location": "Pitcairn Islands"
+    "id": "617",
+    "name": "Karlie",
+    "species": "Cave Swallow",
+    "location": "Yemen",
+    "status": "Green",
+    "yearsTracked": "8"
   },
   {
-    "id": "462",
-    "name": "Vernie",
-    "species": "Hudsonian Godwit",
-    "location": "Yemen"
+    "id": "549",
+    "name": "Ruth",
+    "species": "Hermit Warbler",
+    "location": "Norfolk Island",
+    "status": "Green",
+    "yearsTracked": "14"
   },
   {
-    "id": "428",
-    "name": "Andre",
-    "species": "Black-winged Stilt",
-    "location": "British Indian Ocean Territory (Chagos Archipelago)"
+    "id": "879",
+    "name": "Carson",
+    "species": "Botteri's Sparrow",
+    "location": "Somalia",
+    "status": "Red",
+    "yearsTracked": "17"
   },
   {
-    "id": "565",
-    "name": "Buddy",
-    "species": "Lesser Scaup",
-    "location": "Tunisia"
-  },
-  {
-    "id": "195",
-    "name": "Rosie",
-    "species": "American Tree Sparrow",
-    "location": "Australia"
-  },
-  {
-    "id": "209",
-    "name": "Ilene",
-    "species": "Cactus Wren",
-    "location": "Gabon"
-  },
-  {
-    "id": "755",
-    "name": "Antonietta",
-    "species": "White-cheeked Pintail",
-    "location": "Azerbaijan"
-  },
-  {
-    "id": "948",
-    "name": "Fleta",
-    "species": "Xantus's Hummingbird",
-    "location": "Costa Rica"
-  },
-  {
-    "id": "567",
-    "name": "Mark",
-    "species": "Rufous-backed Robin",
-    "location": "Ethiopia"
-  },
-  {
-    "id": "605",
-    "name": "Khalil",
-    "species": "Black Oystercatcher",
-    "location": "Holy See (Vatican City State)"
-  },
-  {
-    "id": "557",
-    "name": "Bertrand",
-    "species": "Carolina Parakeet",
-    "location": "Moldova"
-  },
-  {
-    "id": "322",
-    "name": "Fernando",
-    "species": "Common Black-Hawk",
-    "location": "Andorra"
+    "id": "723",
+    "name": "Xzavier",
+    "species": "Xantus's Murrelet",
+    "location": "Uganda",
+    "status": "Green",
+    "yearsTracked": "15"
   },
   {
     "id": "555",
-    "name": "Jake",
-    "species": "Asian Brown Flycatcher",
-    "location": "Niue"
-  },
-  {
-    "id": "319",
-    "name": "Jasmin",
-    "species": "Ovenbird",
-    "location": "Singapore"
-  },
-  {
-    "id": "514",
-    "name": "Reuben",
-    "species": "Northern Pygmy-Owl",
-    "location": "Sri Lanka"
-  },
-  {
-    "id": "174",
-    "name": "Levi",
-    "species": "Bendire's Thrasher",
-    "location": "Germany"
-  },
-  {
-    "id": "941",
-    "name": "Doris",
-    "species": "Whooping Crane",
-    "location": "Uruguay"
-  },
-  {
-    "id": "488",
-    "name": "Bridie",
-    "species": "Yellow-billed Cuckoo",
-    "location": "Cameroon"
-  },
-  {
-    "id": "474",
-    "name": "Torey",
-    "species": "Black Storm-Petrel",
-    "location": "China"
-  },
-  {
-    "id": "642",
-    "name": "Urban",
-    "species": "Tropical Parula",
-    "location": "Tunisia"
-  },
-  {
-    "id": "447",
-    "name": "Alexandra",
-    "species": "Scaly-naped Pigeon",
-    "location": "Belarus"
-  },
-  {
-    "id": "939",
-    "name": "Stacey",
-    "species": "Red-legged Kittiwake",
-    "location": "Turkey"
-  },
-  {
-    "id": "466",
-    "name": "Ally",
-    "species": "Yellow-breasted Chat",
-    "location": "Kyrgyz Republic"
-  },
-  {
-    "id": "785",
-    "name": "Benedict",
-    "species": "Hairy Woodpecker",
-    "location": "Israel"
-  },
-  {
-    "id": "344",
-    "name": "Kristopher",
-    "species": "Short-eared Owl",
-    "location": "Hungary"
-  },
-  {
-    "id": "958",
-    "name": "Emmanuel",
-    "species": "Magnificent Frigatebird",
-    "location": "Mexico"
-  },
-  {
-    "id": "733",
-    "name": "Tyreek",
-    "species": "Wandering Albatross",
-    "location": "Mauritania"
-  },
-  {
-    "id": "367",
-    "name": "Garrick",
-    "species": "Northern Shoveler",
-    "location": "Iran"
-  },
-  {
-    "id": "223",
-    "name": "Aron",
-    "species": "Eastern Wood-Pewee",
-    "location": "Norfolk Island"
-  },
-  {
-    "id": "521",
-    "name": "Kirsten",
-    "species": "Mourning Warbler",
-    "location": "Dominica"
-  },
-  {
-    "id": "556",
-    "name": "Virgie",
-    "species": "Olive Sparrow",
-    "location": "Finland"
-  },
-  {
-    "id": "929",
-    "name": "Lorna",
-    "species": "Ashy Storm-Petrel",
-    "location": "Hong Kong"
-  },
-  {
-    "id": "618",
-    "name": "Jerrold",
-    "species": "Western Grebe",
-    "location": "Mongolia"
-  },
-  {
-    "id": "211",
-    "name": "Rusty",
-    "species": "Black Skimmer",
-    "location": "Greece"
-  },
-  {
-    "id": "569",
-    "name": "Ryleigh",
-    "species": "Blackburnian Warbler",
-    "location": "Bulgaria"
-  },
-  {
-    "id": "871",
-    "name": "Torrey",
-    "species": "Red-faced Warbler",
-    "location": "Australia"
-  },
-  {
-    "id": "770",
-    "name": "Nelson",
-    "species": "Slender-billed Curlew",
-    "location": "Vanuatu"
-  },
-  {
-    "id": "451",
-    "name": "Zelda",
-    "species": "Bar-tailed Godwit",
-    "location": "Mauritius"
-  },
-  {
-    "id": "850",
-    "name": "Bernie",
-    "species": "Little Stint",
-    "location": "Sudan"
-  },
-  {
-    "id": "459",
-    "name": "Destiny",
-    "species": "Black-browed Albatross",
-    "location": "Mexico"
-  },
-  {
-    "id": "437",
-    "name": "Nya",
-    "species": "Yellow-billed Cuckoo",
-    "location": "Paraguay"
-  },
-  {
-    "id": "225",
-    "name": "Maxie",
-    "species": "Curve-billed Thrasher",
-    "location": "Comoros"
-  },
-  {
-    "id": "226",
-    "name": "Emily",
-    "species": "Brant",
-    "location": "Lao People's Democratic Republic"
-  },
-  {
-    "id": "528",
-    "name": "Katlynn",
-    "species": "Mottled Duck",
-    "location": "Dominica"
-  },
-  {
-    "id": "152",
-    "name": "Jeramy",
-    "species": "Western Screech-Owl",
-    "location": "Svalbard & Jan Mayen Islands"
-  },
-  {
-    "id": "255",
-    "name": "Jett",
-    "species": "Yucatan Vireo",
-    "location": "South Africa"
-  },
-  {
-    "id": "970",
-    "name": "Stephania",
-    "species": "Mangrove Cuckoo",
-    "location": "Senegal"
-  },
-  {
-    "id": "429",
-    "name": "Pedro",
-    "species": "Lesser Nighthawk",
-    "location": "Paraguay"
-  },
-  {
-    "id": "573",
-    "name": "Erich",
-    "species": "Northern Saw-whet Owl",
-    "location": "Estonia"
-  },
-  {
-    "id": "660",
-    "name": "Aileen",
-    "species": "Juniper Titmouse",
-    "location": "Liberia"
-  },
-  {
-    "id": "886",
-    "name": "Donny",
-    "species": "Summer Tanager",
-    "location": "British Indian Ocean Territory (Chagos Archipelago)"
-  },
-  {
-    "id": "153",
-    "name": "Theodore",
-    "species": "Black Phoebe",
-    "location": "Romania"
-  },
-  {
-    "id": "479",
-    "name": "Lazaro",
-    "species": "Spoonbill Sandpiper",
-    "location": "Saint Vincent and the Grenadines"
-  },
-  {
-    "id": "520",
-    "name": "Davin",
-    "species": "Tree Pipit",
-    "location": "Suriname"
-  },
-  {
-    "id": "734",
-    "name": "Kathleen",
-    "species": "Reddish Egret",
-    "location": "Zambia"
-  },
-  {
-    "id": "706",
-    "name": "Tristin",
-    "species": "Belted Kingfisher",
-    "location": "El Salvador"
-  },
-  {
-    "id": "944",
-    "name": "Ellis",
-    "species": "Variegated Flycatcher",
-    "location": "Honduras"
-  },
-  {
-    "id": "574",
-    "name": "Marcelle",
-    "species": "Far Eastern Curlew",
-    "location": "Honduras"
-  },
-  {
-    "id": "642",
-    "name": "Raymundo",
-    "species": "Western Scrub-Jay",
-    "location": "South Sudan"
-  },
-  {
-    "id": "130",
-    "name": "Lessie",
-    "species": "Indigo Bunting",
-    "location": "India"
-  },
-  {
-    "id": "433",
-    "name": "Letha",
-    "species": "Common Moorhen",
-    "location": "Afghanistan"
-  },
-  {
-    "id": "507",
-    "name": "Nicholas",
-    "species": "Black-necked Stilt",
-    "location": "Ecuador"
-  },
-  {
-    "id": "989",
-    "name": "Rory",
-    "species": "Hooded Merganser",
-    "location": "Norfolk Island"
-  },
-  {
-    "id": "924",
-    "name": "Alexander",
-    "species": "Rock Wren",
-    "location": "Japan"
-  },
-  {
-    "id": "305",
-    "name": "Lilyan",
-    "species": "Red-billed Pigeon",
-    "location": "French Guiana"
-  },
-  {
-    "id": "256",
-    "name": "Efrain",
-    "species": "Oriental Cuckoo",
-    "location": "Taiwan"
-  },
-  {
-    "id": "589",
-    "name": "Natalie",
-    "species": "Antillean Palm Swift",
-    "location": "Latvia"
-  },
-  {
-    "id": "226",
-    "name": "August",
-    "species": "Pacific-slope Flycatcher",
-    "location": "Ireland"
-  },
-  {
-    "id": "198",
-    "name": "Wyman",
-    "species": "Glossy Ibis",
-    "location": "Colombia"
-  },
-  {
-    "id": "363",
-    "name": "Orpha",
-    "species": "Tufted Puffin",
-    "location": "Suriname"
-  },
-  {
-    "id": "817",
-    "name": "Narciso",
-    "species": "Black Catbird",
-    "location": "San Marino"
-  },
-  {
-    "id": "216",
-    "name": "Bernardo",
+    "name": "Estevan",
     "species": "Red-eyed Vireo",
-    "location": "Syrian Arab Republic"
+    "location": "Reunion",
+    "status": "Yellow",
+    "yearsTracked": "7"
   },
   {
-    "id": "894",
-    "name": "Alvina",
-    "species": "Black Vulture",
-    "location": "Kuwait"
+    "id": "669",
+    "name": "Zelda",
+    "species": "Eurasian Dotterel",
+    "location": "Isle of Man",
+    "status": "Red",
+    "yearsTracked": "6"
   },
   {
-    "id": "746",
-    "name": "Verda",
-    "species": "Western Reef-Heron",
-    "location": "Russian Federation"
+    "id": "407",
+    "name": "Annalise",
+    "species": "Rock Sandpiper",
+    "location": "Aruba",
+    "status": "Yellow",
+    "yearsTracked": "17"
   },
   {
-    "id": "182",
-    "name": "Addie",
-    "species": "Indigo Bunting",
-    "location": "Gibraltar"
+    "id": "821",
+    "name": "Nikita",
+    "species": "Painted Bunting",
+    "location": "Burkina Faso",
+    "status": "Yellow",
+    "yearsTracked": "11"
   },
   {
-    "id": "682",
-    "name": "Elijah",
-    "species": "Northern Gannet",
-    "location": "Luxembourg"
+    "id": "935",
+    "name": "Susie",
+    "species": "Sprague's Pipit",
+    "location": "Cape Verde",
+    "status": "Green",
+    "yearsTracked": "15"
   },
   {
-    "id": "154",
-    "name": "Terry",
-    "species": "Bullock's Oriole",
-    "location": "Vanuatu"
+    "id": "193",
+    "name": "Sylvan",
+    "species": "Townsend's Solitaire",
+    "location": "Austria",
+    "status": "Red",
+    "yearsTracked": "7"
   },
   {
-    "id": "825",
-    "name": "Emmanuel",
-    "species": "Heermann's Gull",
-    "location": "Saint Pierre and Miquelon"
+    "id": "942",
+    "name": "Vivian",
+    "species": "Say's Phoebe",
+    "location": "Liberia",
+    "status": "Red",
+    "yearsTracked": "1"
   },
   {
-    "id": "379",
-    "name": "Jacey",
-    "species": "Blue Bunting",
-    "location": "Antigua and Barbuda"
-  },
-  {
-    "id": "949",
-    "name": "Maverick",
-    "species": "Buller's Shearwater",
-    "location": "Norfolk Island"
-  },
-  {
-    "id": "569",
-    "name": "Alva",
-    "species": "Slaty-backed Gull",
-    "location": "Aland Islands"
-  },
-  {
-    "id": "359",
-    "name": "Howard",
-    "species": "Nuttall's Woodpecker",
-    "location": "Virgin Islands, British"
-  },
-  {
-    "id": "706",
-    "name": "Jasper",
-    "species": "Masked Booby",
-    "location": "Peru"
-  },
-  {
-    "id": "200",
-    "name": "Carlie",
-    "species": "Black-capped Vireo",
-    "location": "Pitcairn Islands"
-  },
-  {
-    "id": "956",
-    "name": "Alana",
-    "species": "Buff-breasted Sandpiper",
-    "location": "Faroe Islands"
+    "id": "943",
+    "name": "Erling",
+    "species": "Shiny Cowbird",
+    "location": "Samoa",
+    "status": "Yellow",
+    "yearsTracked": "3"
   },
   {
     "id": "411",
-    "name": "Floyd",
-    "species": "Ruby-crowned Kinglet",
-    "location": "Gabon"
+    "name": "Daryl",
+    "species": "Lucifer Hummingbird",
+    "location": "American Samoa",
+    "status": "Red",
+    "yearsTracked": "1"
   },
   {
-    "id": "235",
-    "name": "Colton",
-    "species": "Ring-necked Pheasant",
-    "location": "Colombia"
+    "id": "402",
+    "name": "Aurelia",
+    "species": "Long-tailed Jaeger",
+    "location": "South Africa",
+    "status": "Yellow",
+    "yearsTracked": "12"
+  },
+  {
+    "id": "193",
+    "name": "Enos",
+    "species": "Red Phalarope",
+    "location": "Chad",
+    "status": "Yellow",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "977",
+    "name": "Izabella",
+    "species": "Sabine's Gull",
+    "location": "Ethiopia",
+    "status": "Green",
+    "yearsTracked": "13"
+  },
+  {
+    "id": "298",
+    "name": "Ariel",
+    "species": "White-faced Ibis",
+    "location": "Liechtenstein",
+    "status": "Red",
+    "yearsTracked": "5"
+  },
+  {
+    "id": "293",
+    "name": "Finn",
+    "species": "Tufted Puffin",
+    "location": "Spain",
+    "status": "Red",
+    "yearsTracked": "0"
+  },
+  {
+    "id": "998",
+    "name": "Flo",
+    "species": "Chinese Egret",
+    "location": "Kyrgyz Republic",
+    "status": "Yellow",
+    "yearsTracked": "12"
+  },
+  {
+    "id": "627",
+    "name": "Bridie",
+    "species": "Red-faced Cormorant",
+    "location": "India",
+    "status": "Green",
+    "yearsTracked": "3"
+  },
+  {
+    "id": "441",
+    "name": "Frank",
+    "species": "Red-eyed Vireo",
+    "location": "Barbados",
+    "status": "Green",
+    "yearsTracked": "17"
+  },
+  {
+    "id": "195",
+    "name": "Jamil",
+    "species": "Redwing",
+    "location": "Guatemala",
+    "status": "Green",
+    "yearsTracked": "13"
+  },
+  {
+    "id": "322",
+    "name": "Zack",
+    "species": "Bachman's Warbler",
+    "location": "Norfolk Island",
+    "status": "Green",
+    "yearsTracked": "14"
+  },
+  {
+    "id": "863",
+    "name": "Torrance",
+    "species": "American Kestrel",
+    "location": "Sint Maarten",
+    "status": "Green",
+    "yearsTracked": "2"
+  },
+  {
+    "id": "833",
+    "name": "Jamil",
+    "species": "Indigo Bunting",
+    "location": "Philippines",
+    "status": "Green",
+    "yearsTracked": "17"
+  },
+  {
+    "id": "842",
+    "name": "Delta",
+    "species": "Abert's Towhee",
+    "location": "French Guiana",
+    "status": "Red",
+    "yearsTracked": "8"
+  },
+  {
+    "id": "688",
+    "name": "Amos",
+    "species": "Audubon's Shearwater",
+    "location": "Italy",
+    "status": "Green",
+    "yearsTracked": "9"
+  },
+  {
+    "id": "381",
+    "name": "Lindsay",
+    "species": "Gull-billed Tern",
+    "location": "Costa Rica",
+    "status": "Green",
+    "yearsTracked": "4"
+  },
+  {
+    "id": "535",
+    "name": "Sven",
+    "species": "European Starling",
+    "location": "Finland",
+    "status": "Red",
+    "yearsTracked": "16"
+  },
+  {
+    "id": "427",
+    "name": "Felicia",
+    "species": "Least Bittern",
+    "location": "Kenya",
+    "status": "Red",
+    "yearsTracked": "16"
+  },
+  {
+    "id": "258",
+    "name": "Colleen",
+    "species": "Summer Tanager",
+    "location": "Nauru",
+    "status": "Green",
+    "yearsTracked": "17"
+  },
+  {
+    "id": "414",
+    "name": "Marlee",
+    "species": "Red-eyed Vireo",
+    "location": "Tunisia",
+    "status": "Red",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "776",
+    "name": "Dovie",
+    "species": "California Condor",
+    "location": "Norway",
+    "status": "Green",
+    "yearsTracked": "10"
+  },
+  {
+    "id": "170",
+    "name": "Ursula",
+    "species": "Yellow-eyed Junco",
+    "location": "Ethiopia",
+    "status": "Green",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "456",
+    "name": "Jermey",
+    "species": "Tufted Flycatcher",
+    "location": "Iran",
+    "status": "Red",
+    "yearsTracked": "9"
+  },
+  {
+    "id": "709",
+    "name": "Verda",
+    "species": "Mute Swan",
+    "location": "Denmark",
+    "status": "Red",
+    "yearsTracked": "16"
+  },
+  {
+    "id": "188",
+    "name": "Earnest",
+    "species": "Common Sandpiper",
+    "location": "Dominica",
+    "status": "Green",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "211",
+    "name": "Emile",
+    "species": "Western Tanager",
+    "location": "Libyan Arab Jamahiriya",
+    "status": "Yellow",
+    "yearsTracked": "13"
+  },
+  {
+    "id": "259",
+    "name": "Benedict",
+    "species": "California Gnatcatcher",
+    "location": "Zimbabwe",
+    "status": "Red",
+    "yearsTracked": "16"
+  },
+  {
+    "id": "820",
+    "name": "Tressie",
+    "species": "Least Sandpiper",
+    "location": "Jersey",
+    "status": "Red",
+    "yearsTracked": "11"
+  },
+  {
+    "id": "534",
+    "name": "Elliot",
+    "species": "Western Screech-Owl",
+    "location": "Tokelau",
+    "status": "Green",
+    "yearsTracked": "7"
+  },
+  {
+    "id": "933",
+    "name": "Gustave",
+    "species": "Flesh-footed Shearwater",
+    "location": "Cayman Islands",
+    "status": "Yellow",
+    "yearsTracked": "1"
+  },
+  {
+    "id": "463",
+    "name": "Dandre",
+    "species": "Black-bellied Plover",
+    "location": "Faroe Islands",
+    "status": "Yellow",
+    "yearsTracked": "13"
+  },
+  {
+    "id": "249",
+    "name": "Claude",
+    "species": "Snail Kite",
+    "location": "Trinidad and Tobago",
+    "status": "Yellow",
+    "yearsTracked": "13"
+  },
+  {
+    "id": "778",
+    "name": "Cecelia",
+    "species": "Black Phoebe",
+    "location": "Spain",
+    "status": "Green",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "678",
+    "name": "Keeley",
+    "species": "Henslow's Sparrow",
+    "location": "Guyana",
+    "status": "Green",
+    "yearsTracked": "8"
+  },
+  {
+    "id": "659",
+    "name": "Kaden",
+    "species": "Least Sandpiper",
+    "location": "Cameroon",
+    "status": "Green",
+    "yearsTracked": "7"
+  },
+  {
+    "id": "391",
+    "name": "Lionel",
+    "species": "Hoopoe",
+    "location": "Turkey",
+    "status": "Red",
+    "yearsTracked": "4"
+  },
+  {
+    "id": "396",
+    "name": "Gisselle",
+    "species": "Snowy Owl",
+    "location": "Latvia",
+    "status": "Green",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "252",
+    "name": "Lue",
+    "species": "Tawny-shouldered Blackbird",
+    "location": "Bangladesh",
+    "status": "Green",
+    "yearsTracked": "2"
+  },
+  {
+    "id": "377",
+    "name": "Dorthy",
+    "species": "Purple Martin",
+    "location": "Cocos (Keeling) Islands",
+    "status": "Yellow",
+    "yearsTracked": "15"
+  },
+  {
+    "id": "706",
+    "name": "Camron",
+    "species": "Audubon's Oriole",
+    "location": "South Georgia and the South Sandwich Islands",
+    "status": "Yellow",
+    "yearsTracked": "2"
+  },
+  {
+    "id": "953",
+    "name": "Hipolito",
+    "species": "Lazuli Bunting",
+    "location": "Peru",
+    "status": "Yellow",
+    "yearsTracked": "5"
+  },
+  {
+    "id": "249",
+    "name": "Monroe",
+    "species": "Sprague's Pipit",
+    "location": "Greece",
+    "status": "Yellow",
+    "yearsTracked": "5"
+  },
+  {
+    "id": "230",
+    "name": "Clifton",
+    "species": "Gambel's Quail",
+    "location": "United Kingdom",
+    "status": "Green",
+    "yearsTracked": "14"
+  },
+  {
+    "id": "659",
+    "name": "Pamela",
+    "species": "Black-throated Green Warbler",
+    "location": "Latvia",
+    "status": "Red",
+    "yearsTracked": "3"
+  },
+  {
+    "id": "250",
+    "name": "Cierra",
+    "species": "White-winged Crossbill",
+    "location": "Puerto Rico",
+    "status": "Red",
+    "yearsTracked": "14"
+  },
+  {
+    "id": "243",
+    "name": "Bethel",
+    "species": "Caribbean Elaenia",
+    "location": "United Kingdom",
+    "status": "Yellow",
+    "yearsTracked": "9"
+  },
+  {
+    "id": "407",
+    "name": "Alysha",
+    "species": "Pink-footed Goose",
+    "location": "Taiwan",
+    "status": "Red",
+    "yearsTracked": "2"
+  },
+  {
+    "id": "236",
+    "name": "Dessie",
+    "species": "California Condor",
+    "location": "Netherlands",
+    "status": "Red",
+    "yearsTracked": "1"
+  },
+  {
+    "id": "237",
+    "name": "Marilyne",
+    "species": "Sedge Wren",
+    "location": "Honduras",
+    "status": "Red",
+    "yearsTracked": "8"
+  },
+  {
+    "id": "949",
+    "name": "Christiana",
+    "species": "Bahama Swallow",
+    "location": "Ukraine",
+    "status": "Red",
+    "yearsTracked": "18"
+  },
+  {
+    "id": "459",
+    "name": "Alvis",
+    "species": "Red-billed Pigeon",
+    "location": "Zambia",
+    "status": "Yellow",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "534",
+    "name": "Margie",
+    "species": "Laughing Gull",
+    "location": "Virgin Islands, British",
+    "status": "Red",
+    "yearsTracked": "18"
+  },
+  {
+    "id": "725",
+    "name": "Kip",
+    "species": "Violet-green Swallow",
+    "location": "Ethiopia",
+    "status": "Green",
+    "yearsTracked": "17"
+  },
+  {
+    "id": "751",
+    "name": "Armando",
+    "species": "Lewis's Woodpecker",
+    "location": "Taiwan",
+    "status": "Green",
+    "yearsTracked": "12"
+  },
+  {
+    "id": "999",
+    "name": "Maymie",
+    "species": "Bananaquit",
+    "location": "Spain",
+    "status": "Red",
+    "yearsTracked": "16"
+  },
+  {
+    "id": "936",
+    "name": "Mattie",
+    "species": "Fieldfare",
+    "location": "Chile",
+    "status": "Green",
+    "yearsTracked": "18"
+  },
+  {
+    "id": "140",
+    "name": "Brittany",
+    "species": "Olive-backed Pipit",
+    "location": "Rwanda",
+    "status": "Green",
+    "yearsTracked": "16"
+  },
+  {
+    "id": "276",
+    "name": "Damien",
+    "species": "European Storm-Petrel",
+    "location": "Bolivia",
+    "status": "Yellow",
+    "yearsTracked": "8"
+  },
+  {
+    "id": "162",
+    "name": "Serena",
+    "species": "Kirtland's Warbler",
+    "location": "Ethiopia",
+    "status": "Green",
+    "yearsTracked": "10"
+  },
+  {
+    "id": "472",
+    "name": "Elisa",
+    "species": "Marsh Wren",
+    "location": "Democratic People's Republic of Korea",
+    "status": "Yellow",
+    "yearsTracked": "13"
+  },
+  {
+    "id": "688",
+    "name": "Americo",
+    "species": "Bachman's Warbler",
+    "location": "Sweden",
+    "status": "Yellow",
+    "yearsTracked": "7"
+  },
+  {
+    "id": "889",
+    "name": "Flavio",
+    "species": "Lark Bunting",
+    "location": "India",
+    "status": "Green",
+    "yearsTracked": "17"
+  },
+  {
+    "id": "423",
+    "name": "Deangelo",
+    "species": "Wood Thrush",
+    "location": "Svalbard & Jan Mayen Islands",
+    "status": "Yellow",
+    "yearsTracked": "7"
+  },
+  {
+    "id": "837",
+    "name": "Earnestine",
+    "species": "Cooper's Hawk",
+    "location": "Holy See (Vatican City State)",
+    "status": "Red",
+    "yearsTracked": "4"
+  },
+  {
+    "id": "548",
+    "name": "Chris",
+    "species": "Oriental Greenfinch",
+    "location": "Austria",
+    "status": "Red",
+    "yearsTracked": "10"
+  },
+  {
+    "id": "497",
+    "name": "Aidan",
+    "species": "White-faced Ibis",
+    "location": "Poland",
+    "status": "Yellow",
+    "yearsTracked": "12"
+  },
+  {
+    "id": "400",
+    "name": "Destin",
+    "species": "Baird's Sandpiper",
+    "location": "Oman",
+    "status": "Green",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "463",
+    "name": "Effie",
+    "species": "Little Stint",
+    "location": "Cocos (Keeling) Islands",
+    "status": "Yellow",
+    "yearsTracked": "10"
+  },
+  {
+    "id": "879",
+    "name": "Mya",
+    "species": "Caribbean Elaenia",
+    "location": "Antarctica",
+    "status": "Green",
+    "yearsTracked": "10"
+  },
+  {
+    "id": "761",
+    "name": "Tianna",
+    "species": "Common Ringed Plover",
+    "location": "Montenegro",
+    "status": "Yellow",
+    "yearsTracked": "6"
+  },
+  {
+    "id": "456",
+    "name": "Obie",
+    "species": "Brown-capped Rosy-Finch",
+    "location": "Indonesia",
+    "status": "Yellow",
+    "yearsTracked": "17"
+  },
+  {
+    "id": "497",
+    "name": "Malachi",
+    "species": "Pyrrhuloxia",
+    "location": "Greenland",
+    "status": "Green",
+    "yearsTracked": "10"
+  },
+  {
+    "id": "990",
+    "name": "Iva",
+    "species": "Mourning Dove",
+    "location": "Chad",
+    "status": "Yellow",
+    "yearsTracked": "11"
+  },
+  {
+    "id": "762",
+    "name": "Eldridge",
+    "species": "Lesser Scaup",
+    "location": "Democratic Republic of the Congo",
+    "status": "Yellow",
+    "yearsTracked": "11"
+  },
+  {
+    "id": "343",
+    "name": "Alford",
+    "species": "Red-necked Stint",
+    "location": "Liberia",
+    "status": "Yellow",
+    "yearsTracked": "3"
   }
 ]

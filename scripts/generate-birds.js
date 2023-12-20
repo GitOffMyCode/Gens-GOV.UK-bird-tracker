@@ -11,6 +11,10 @@ const generateBird = () => {
     location: faker.location.country(),
   };
 
+  bird.status = faker.helpers.arrayElement(["Red", "Yellow", "Green"]);
+
+  bird.yearsTracked = "" + faker.number.int({ min: 0, max: 18 });
+
   return bird;
 };
 
