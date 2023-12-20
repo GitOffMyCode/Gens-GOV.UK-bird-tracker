@@ -13,7 +13,7 @@ const generateBird = () => {
 
   bird.status = faker.helpers.arrayElement(["Red", "Yellow", "Green"]);
 
-  bird.yearsTracked = "" + faker.number.int({ min: 0, max: 18 });
+  bird.yearsTracked = "" + faker.number.int({ min: 0, max: 3 });
 
   return bird;
 };

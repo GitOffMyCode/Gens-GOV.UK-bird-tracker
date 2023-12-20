@@ -1,6 +1,6 @@
 {% set filterOptionsHtml %}
 
-  {{ govukCheckboxes({
+{{ govukCheckboxes({
     idPrefix: "filters[statuses]",
     name: "filters[statuses]",
     classes: "govuk-checkboxes--small",
@@ -11,36 +11,42 @@
       }
     },
     items: [{
-      value: 'Received',
-      text: 'Received'
+      value: 'Red',
+      text: 'Red'
     }, {
-      value: 'Approved',
-      text: 'Approved'
+      value: 'Yellow',
+      text: 'Yellow'
     }, {
-      value: 'Rejected',
-      text: 'Rejected'
+      value: 'Green',
+      text: 'Green'
     }],
     values: data.filters.statuses
   }) }}
 
-  {{ govukCheckboxes({
-    idPrefix: "filters[numberOfBalls]",
-    name: "filters[numberOfBalls]",
+{{ govukCheckboxes({
+    idPrefix: "filters[yearsTracked]",
+    name: "filters[yearsTracked]",
     classes: "govuk-checkboxes--small",
     fieldset: {
       legend: {
-        text: "Number of balls",
+        text: "Years tracked",
         classes: "govuk-fieldset__legend--s"
       }
     },
     items: [{
-      value: '1 or 2',
-      text: '1 or 2'
+      value: '0',
+      text: '0'
     }, {
-      value: '3 or more',
-      text: '3 or more'
+      value: '1',
+      text: '1'
+    }, {
+      value: '2',
+      text: '2'
+    }, {
+      value: '3',
+      text: '3'
     }],
-    values: data.filters.numberOfBalls
+    values: data.filters.yearsTracked
   }) }}
 
 {% endset %}
@@ -50,9 +56,7 @@
     <div class="app-filter__header-title">
       <h2 class="govuk-heading-m">Filter</h2>
     </div>
-    <div class="app-filter__header-action">
-
-    </div>
+    <div class="app-filter__header-action"></div>
   </div>
   <div class="app-filter__content">
     {% if selectedFilters.categories.length %}
@@ -60,14 +64,20 @@
         <div class="app-filter__selected-heading">
           <div class="app-filter__heading-title">
             <h2 class="govuk-heading-m govuk-!-margin-bottom-1">Selected filters</h2>
-            <p class="govuk-body"><a class="govuk-link govuk-link--no-visited-state" href="/applications/clear-filters">Clear filters</a></p>
+            <p class="govuk-body">
+              <a class="govuk-link govuk-link--no-visited-state" href="/applications/clear-filters">Clear filters</a>
+            </p>
           </div>
         </div>
         {% for category in selectedFilters.categories %}
           <h3 class="govuk-heading-s govuk-!-margin-bottom-0">{{ category.heading.text }}</h3>
           <ul class="app-filter-tags">
             {% for item in category.items %}
-              <li><a class="app-filter__tag" href="{{item.href}}"><span class="govuk-visually-hidden">Remove this filter</span> {{item.text}}</a></li>
+              <li>
+                <a class="app-filter__tag" href="{{item.href}}">
+                  <span class="govuk-visually-hidden">Remove this filter</span>
+                  {{item.text}}</a>
+              </li>
             {% endfor %}
           </ul>
         {% endfor %}

@@ -8,5 +8,4 @@ router.all("*", (req, res, next) => {
   next();
 });
 
-require("./routes/test")(router);
 require("./routes/birds")(router);
