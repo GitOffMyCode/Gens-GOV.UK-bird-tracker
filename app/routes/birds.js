@@ -7,7 +7,10 @@ module.exports = (router) => {
 
     let selectedStatusFilters = _.get(req.session.data.filters, "statuses");
 
-    // check if user has selected status filters
+    let selectedFilters = {
+      categories: [],
+    };
+
     if (_.get(selectedStatusFilters, "length")) {
       birds = birds.filter((bird) => {
         let matchesStatus = true;
@@ -16,10 +19,23 @@ module.exports = (router) => {
 
         return matchesStatus;
       });
+
+      selectedFilters.categories.push({
+        heading: {
+          text: "Status",
+        },
+        items: selectedStatusFilters.map((label) => {
+          return {
+            text: label,
+            href: `/remove-status/${label}`,
+          };
+        }),
+      });
     }
 
     res.render("/index", {
       birds,
+      selectedFilters,
     });
   });
 
