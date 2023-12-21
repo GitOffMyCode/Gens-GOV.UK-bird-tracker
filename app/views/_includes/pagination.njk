@@ -1,26 +1,14 @@
 {{ govukPagination({
   classes: "govuk-!-margin-bottom-2",
   previous: {
-    href: "#"
+    href: pagination.previousPage.href
   },
   next: {
-    href: "#"
+    href: pagination.nextPage.href
   },
-  items: [
-    {
-      number: 1,
-      href: "#"
-    },
-    {
-      number: 2,
-      current: true,
-      href: "#"
-    },
-    {
-      number: 3,
-      href: "#"
-    }
-  ]
+  items: pagination.pageItems
 }) }}
 
-<p class="govuk-body">Showing 1 to 50 of 100 results</p>
+{{ pagination | log }}
+
+<p class="govuk-body">Showing {{pagination.firstResultNumber}} to {{pagination.lastResultNumber}} of {{pagination.totalCount}} results</p>

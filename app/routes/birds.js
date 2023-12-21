@@ -1,4 +1,5 @@
 const _ = require("lodash");
+const Pagination = require("../helpers/pagination");
 
 module.exports = (router) => {
   // get birds – including any filters
@@ -76,9 +77,15 @@ module.exports = (router) => {
       });
     }
 
+    // PAGINATION
+    let pageSize = 25;
+    let pagination = new Pagination(birds, req.query.page, pageSize);
+    birds = pagination.getData();
+
     res.render("/index", {
       birds,
       selectedFilters,
+      pagination,
     });
   });
 
