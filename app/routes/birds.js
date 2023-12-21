@@ -39,6 +39,16 @@ module.exports = (router) => {
     });
   });
 
+  // remove status filter
+  router.get("/remove-status/:status", (req, res) => {
+    _.set(
+      req,
+      "session.data.filters.statuses",
+      _.pull(req.session.data.filters.statuses, req.params.status)
+    );
+    res.redirect("/show");
+  });
+
   // get bird by id
   router.get("/:birdId", (req, res) => {
     let bird = req.session.data.birds.find(
