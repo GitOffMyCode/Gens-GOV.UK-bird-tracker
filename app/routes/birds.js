@@ -46,7 +46,7 @@ module.exports = (router) => {
       "session.data.filters.statuses",
       _.pull(req.session.data.filters.statuses, req.params.status)
     );
-    res.redirect("/show");
+    res.redirect("/");
   });
 
   // get bird by id
