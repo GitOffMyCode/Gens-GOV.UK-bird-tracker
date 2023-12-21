@@ -49,6 +49,12 @@ module.exports = (router) => {
     res.redirect("/");
   });
 
+  // clear filters
+  router.get("/clear-filters", (req, res) => {
+    _.set(req, "session.data.filters.statuses", null);
+    res.redirect("/");
+  });
+
   // get bird by id
   router.get("/:birdId", (req, res) => {
     let bird = req.session.data.birds.find(
