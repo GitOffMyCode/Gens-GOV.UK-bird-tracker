@@ -5,6 +5,16 @@ module.exports = (router) => {
   router.get("/", (req, res) => {
     let birds = req.session.data.birds;
 
+    // SEARCH – get user search input
+    let species = _.get(req.session.data.search, "species");
+
+    // SEARCH - filter birds by search term
+    if (species) {
+      birds = birds.filter((bird) => {
+        return bird.species.indexOf(species) > -1;
+      });
+    }
+
     let selectedStatusFilters = _.get(req.session.data.filters, "statuses");
     let selectedYearsTrackedFilters = _.get(
       req.session.data.filters,
