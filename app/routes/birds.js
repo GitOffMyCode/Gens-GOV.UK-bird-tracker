@@ -109,6 +109,12 @@ module.exports = (router) => {
     res.redirect("/");
   });
 
+  // SEARCH - clear
+  router.get("/clear-search", (req, res) => {
+    _.set(req, "session.data.search.species", null);
+    res.redirect("/");
+  });
+
   // get bird by id
   router.get("/:birdId", (req, res) => {
     let bird = req.session.data.birds.find(
